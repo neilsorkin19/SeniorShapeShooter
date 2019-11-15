@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeniorShapeShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SeniorShapeShooter_jar</output-path>
+    <root id="archive" name="SeniorShapeShooter.jar">
+      <element id="module-output" name="SeniorShapeShooter" />
+    </root>
+  </artifact>
+</component>
